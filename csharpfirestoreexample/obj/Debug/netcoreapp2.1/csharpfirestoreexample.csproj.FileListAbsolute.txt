@@ -1,0 +1,12 @@
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\bin\Debug\netcoreapp2.1\csharpfirestoreexample.exe
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\obj\Debug\netcoreapp2.1\csharpfirestoreexample.csprojAssemblyReference.cache
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\obj\Debug\netcoreapp2.1\csharpfirestoreexample.csproj.CoreCompileInputs.cache
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\obj\Debug\netcoreapp2.1\csharpfirestoreexample.AssemblyInfoInputs.cache
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\obj\Debug\netcoreapp2.1\csharpfirestoreexample.AssemblyInfo.cs
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\bin\Debug\netcoreapp2.1\csharpfirestoreexample.deps.json
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\bin\Debug\netcoreapp2.1\csharpfirestoreexample.runtimeconfig.json
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\bin\Debug\netcoreapp2.1\csharpfirestoreexample.runtimeconfig.dev.json
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\bin\Debug\netcoreapp2.1\csharpfirestoreexample.dll
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\bin\Debug\netcoreapp2.1\csharpfirestoreexample.pdb
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\obj\Debug\netcoreapp2.1\csharpfirestoreexample.dll
+D:\git\C#\Exemplos e POC\csharpfirestoreexample\csharpfirestoreexample\obj\Debug\netcoreapp2.1\csharpfirestoreexample.pdb
