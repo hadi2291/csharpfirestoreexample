@@ -9,4 +9,131 @@
     <PackageReference Include="Google.Cloud.Firestore" Version="1.0.0-beta15" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-10.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-11359.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-12815.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-12892.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-12893.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-20078.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-25966.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-2711.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-36144.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-36146.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-36149.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-36150.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-36153.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-36531.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-37370.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-37371.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-37372.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-37373.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38382.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38390.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38393.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38396.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38399.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38412.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38413.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38476.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-38477.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-40331.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-4234.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-4237.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-5664.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-5679.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-88236.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-88237.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-88246.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-88294.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-88857.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-88858.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="json\yvbzKjwNrtf9bigU9oYi-95357.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="mega-rubk-dev-firebase.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="json\" />
+  </ItemGroup>
+
 </Project>

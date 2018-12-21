@@ -1,0 +1,38 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "cNEkEhqQTRBgXLJGp2zH",
+        "reference": "benchCompositionLevel/yZ3lTa6lsmlSOiiMsPtZ"
+
+    },
+    "Code": "95357",
+    "Description": "CURSO DE CAPACITAÇÃO PARA OPERADOR DE ESCAVADEIRA (ENCARGOS COMPLEMENTARES) - HORISTA",
+    "Type": "Composition",
+    "Unity": "H",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 0.27,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0.27,
+    "LaborCostPercenage": 100,
+    "MaterialCost": 0,
+    "MaterialCostPercentage": 0,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": [
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-4234",
+            "code" : "4234",
+            "description": "OPERADOR DE ESCAVADEIRA",
+            "coefficient": 0.0093,
+            "UnityCost" : 29.13,
+            "TotalCost" : 0.27
+        }
+    ]
+}

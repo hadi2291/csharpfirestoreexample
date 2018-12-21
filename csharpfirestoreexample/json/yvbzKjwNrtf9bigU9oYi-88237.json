@@ -1,0 +1,92 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "cNEkEhqQTRBgXLJGp2zH",
+        "reference": "benchCompositionLevel/yZ3lTa6lsmlSOiiMsPtZ"
+
+    },
+    "Code": "88237",
+    "Description": "EPI (ENCARGOS COMPLEMENTARES) - HORISTA",
+    "Type": "Composition",
+    "Unity": "H",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 0.89,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0,
+    "LaborCostPercenage": 0,
+    "MaterialCost": 0.89,
+    "MaterialCostPercentage": 100,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": [
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-12892",
+            "code" : "12892",
+            "description": "LUVA RASPA DE COURO, CANO CURTO (PUNHO *7* CM)",
+            "coefficient": 0.0137388,
+            "UnityCost" : 9.90,
+            "TotalCost" : 0.13
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-12893",
+            "code" : "12893",
+            "description": "BOTA DE SEGURANCA COM BIQUEIRA DE ACO E COLARINHO ACOLCHOADO",
+            "coefficient": 0.0016029,
+            "UnityCost" : 52.8,
+            "TotalCost" : 0.08
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-36144",
+            "code" : "36144",
+            "description": "RESPIRADOR DESCARTAVEL SEM VALVULA DE EXALACAO, PFF 1",
+            "coefficient": 0.1117708,
+            "UnityCost" : 1.23,
+            "TotalCost" : 0.13
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-36146",
+            "code" : "36146",
+            "description": "PROTETOR SOLAR FPS 30, EMBALAGEM 2 LITROS",
+            "coefficient": 0.0012434,
+            "UnityCost" : 187,
+            "TotalCost" : 0.23
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-36149",
+            "code" : "36149",
+            "description": "TRAVA-QUEDAS EM ACO PARA CORDA DE 12 MM, EXTENSOR DE 25 X 300 MM, COM MOSQUETAO TIPO GANCHO TRAVA DUPLA",
+            "coefficient": 0.00072,
+            "UnityCost" : 129.25,
+            "TotalCost" : 0.09
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-36150",
+            "code" : "36150",
+            "description": "AVENTAL DE SEGURANCA DE RASPA DE COURO 1,00 X 0,60 M",
+            "coefficient": 0.0026644,
+            "UnityCost" : 36.67,
+            "TotalCost" : 0.08
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-36153",
+            "code" : "36153",
+            "description": "TALABARTE DE SEGURANCA, 2 MOSQUETOES TRAVA DUPLA *53* MM DE ABERTURA, COM ABSORVEDOR DE ENERGIA",
+            "coefficient": 0.0010776,
+            "UnityCost" : 147.12,
+            "TotalCost" : 0.15
+        }
+    ]
+}

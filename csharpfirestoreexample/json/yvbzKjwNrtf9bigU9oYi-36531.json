@@ -1,0 +1,28 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "cNEkEhqQTRBgXLJGp2zH",
+        "reference": "benchCompositionLevel/pVbxn12IeI9RC8qUlvLP"
+
+    },
+    "Code": "36531",
+    "Description": "RETROESCAVADEIRA SOBRE RODAS COM CARREGADEIRA, TRACAO 4 X 4, POTENCIA LIQUIDA 88 HP, PESO OPERACIONAL MINIMO DE 6674 KG, CAPACIDADE DA CARREGADEIRA DE 1,00 M3 E DA  RETROESCAVADEIRA MINIMA DE 0,26 M3, PROFUNDIDADE DE ESCAVACAO MAXIMA DE 4,37 M",
+    "Type": "Supplies",
+    "Unity": "UN",
+    "PriceRise": "COLETADO",
+    "TotalCost": 243597.54,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0,
+    "LaborCostPercenage": 0,
+    "MaterialCost": 0,
+    "MaterialCostPercentage": 0,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": []
+}

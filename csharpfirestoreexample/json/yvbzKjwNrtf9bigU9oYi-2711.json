@@ -1,0 +1,28 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "cNEkEhqQTRBgXLJGp2zH",
+        "reference": "benchCompositionLevel/cNEkEhqQTRBgXLJGp2zH"
+
+    },
+    "Code": "2711",
+    "Description": "CARRINHO DE MAO DE ACO CAPACIDADE 50 A 60 L, PNEU COM CAMARA",
+    "Type": "Supplies",
+    "Unity": "UN",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 115,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0,
+    "LaborCostPercenage": 0,
+    "MaterialCost": 0,
+    "MaterialCostPercentage": 0,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": []
+}

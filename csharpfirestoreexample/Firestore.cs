@@ -13,7 +13,7 @@ namespace bancocomposicao
 
         public Firestore()
         {
-            db = FirestoreDb.Create("realbimfile");
+            db = FirestoreDb.Create("mega-rubk-dev");
         }
 
 
@@ -133,6 +133,27 @@ namespace bancocomposicao
 
             Console.WriteLine("Stopping listener");
             await listener.StopAsync();
+        }
+
+        public async Task SetCollection(string collectionName, string id, object data)
+        {
+            try
+            {
+                //Console.WriteLine($"    try add doc {id} with {data}");
+                CollectionReference collection = db.Collection(collectionName);
+                var doc = collection.Document(id);
+                //Console.WriteLine(doc);
+                if (doc != null)
+                {
+                    await doc.DeleteAsync();
+                }
+                var doc1Ref = await doc.CreateAsync(data);
+                Console.WriteLine("Ok");
+            } catch (Exception ex)
+            {
+                Console.Write($"erro arq: {id} - {ex.Message}");
+                Console.WriteLine();
+            }
         }
 
     }

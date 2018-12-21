@@ -1,0 +1,101 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "yZ3lTa6lsmlSOiiMsPtZ",
+        "reference": "benchCompositionLevel/yZ3lTa6lsmlSOiiMsPtZ"
+
+    },
+    "Code": "88246",
+    "Description": "ASSENTADOR DE TUBOS COM ENCARGOS COMPLEMENTARES",
+    "Type": "Composition",
+    "Unity": "H",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 26.46,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 21.57,
+    "LaborCostPercenage": 81.5192745,
+    "MaterialCost": 4.81,
+    "MaterialCostPercentage": 18.1783824,
+    "EquipmentCost": 0.08,
+    "EquipmentCostPecentage": 0.3023431,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": [
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37370",
+            "code" : "37370",
+            "description": "ALIMENTACAO - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 2.62,
+            "TotalCost" : 2.62
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi37370",
+            "code" : "37371",
+            "description": "TRANSPORTE - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 0.57,
+            "TotalCost" : 0.57
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37372",
+            "code" : "37372",
+            "description": "EXAMES - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 0.34,
+            "TotalCost" : 0.34
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37373",
+            "code" : "37373",
+            "description": "SEGURO - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 0.05,
+            "TotalCost" : 0.05
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-40331",
+            "code" : "40331",
+            "description": "ASSENTADOR DE MANILHAS",
+            "coefficient": 1,
+            "UnityCost" : 21.32,
+            "TotalCost" : 21.32
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-88237",
+            "code" : "88237",
+            "description": "EPI (ENCARGOS COMPLEMENTARES) - HORISTA",
+            "coefficient": 1,
+            "UnityCost" : 0.89,
+            "TotalCost" : 0.89
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-88236",
+            "code" : "88236",
+            "description": "FERRAMENTAS (ENCARGOS COMPLEMENTARES) - HORISTA",
+            "coefficient": 1,
+            "UnityCost" : 0.42,
+            "TotalCost" : 0.42
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-95315",
+            "code" : "95315",
+            "description": "CURSO DE CAPACITAÇÃO PARA ASSENTADOR DE TUBOS (ENCARGOS COMPLEMENTARES) - HORISTA",
+            "coefficient": 1,
+            "UnityCost" : 0.25,
+            "TotalCost" : 0.25
+        }
+    ]
+}

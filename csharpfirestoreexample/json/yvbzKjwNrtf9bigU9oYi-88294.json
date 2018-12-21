@@ -1,0 +1,92 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "yZ3lTa6lsmlSOiiMsPtZ",
+        "reference": "benchCompositionLevel/yZ3lTa6lsmlSOiiMsPtZ"
+
+    },
+    "Code": "88294",
+    "Description": "OPERADOR DE ESCAVADEIRA COM ENCARGOS COMPLEMENTARES",
+    "Type": "Composition",
+    "Unity": "H",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 33.87,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 29.4,
+    "LaborCostPercenage": 86.8024801,
+    "MaterialCost": 4.47,
+    "MaterialCostPercentage": 13.1975199,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": [
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-4234",
+            "code" : "4234",
+            "description": "OPERADOR DE ESCAVADEIRA",
+            "coefficient": 1,
+            "UnityCost" : 29.13,
+            "TotalCost" : 29.13
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37370",
+            "code" : "37370",
+            "description": "ALIMENTACAO - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 2.62,
+            "TotalCost" : 2.62
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37371",
+            "code" : "37371",
+            "description": "TRANSPORTE - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 0.57,
+            "TotalCost" : 0.57
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37372",
+            "code" : "37372",
+            "description": "EXAMES - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 0.34,
+            "TotalCost" : 0.34
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-37373",
+            "code" : "37373",
+            "description": "SEGURO - HORISTA (COLETADO CAIXA)",
+            "coefficient": 1,
+            "UnityCost" : 0.05,
+            "TotalCost" : 0.05
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-88237",
+            "code" : "88237",
+            "description": "EPI (ENCARGOS COMPLEMENTARES) - HORISTA",
+            "coefficient": 1,
+            "UnityCost" : 0.89,
+            "TotalCost" : 0.89
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-95357",
+            "code" : "95357",
+            "description": "CURSO DE CAPACITAÇÃO PARA OPERADOR DE ESCAVADEIRA (ENCARGOS COMPLEMENTARES) - HORISTA",
+            "coefficient": 1,
+            "UnityCost" : 0.27,
+            "TotalCost" : 0.27
+        }
+    ]
+}

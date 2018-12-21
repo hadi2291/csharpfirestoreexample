@@ -1,0 +1,28 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "cNEkEhqQTRBgXLJGp2zH",
+        "reference": "benchCompositionLevel/cNEkEhqQTRBgXLJGp2zH"
+
+    },
+    "Code": "38413",
+    "Description": "LIXADEIRA ELETRICA ANGULAR, PARA DISCO DE 7'' (180 MM), POTENCIA DE 2.200 W, *5.000* RPM, 220 V",
+    "Type": "Supplies",
+    "Unity": "UN",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 582.51,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0,
+    "LaborCostPercenage": 0,
+    "MaterialCost": 0,
+    "MaterialCostPercentage": 0,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": []
+}

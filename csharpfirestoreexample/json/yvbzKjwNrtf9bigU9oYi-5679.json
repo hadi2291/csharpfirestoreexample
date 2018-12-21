@@ -1,0 +1,55 @@
+{
+     "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "rAWSoZXF7GP6zPlyFL2e",
+        "reference": "benchCompositionLevel/4adkvIiqjNySzictMzTU"
+    },
+    "Code": "5679",
+    "Description": "RETROESCAVADEIRA SOBRE RODAS COM CARREGADEIRA, TRAÇÃO 4X4, POTÊNCIA LÍQ. 88 HP, CAÇAMBA CARREG. CAP. MÍN. 1 M3, CAÇAMBA RETRO CAP. 0,26 M3, PESO OPERACIONAL MÍN. 6.674 KG, PROFUNDIDADE ESCAVAÇÃO MÁX. 4,37 M - CHI DIURNO. AF_06/2014",
+    "Type": "Consposition",
+    "Unity": "CHI",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 51.01,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 29.40,
+    "LaborCostPercenage": 57.6357578,
+    "MaterialCost": 4.47,
+    "MaterialCostPercentage": 8.7629876,
+    "EquipmentCost": 17.14,
+    "EquipmentCostPecentage": 33.6012546,
+    "ThirdPartyServiceCost": 0.00,
+    "ThirdPartyServiceCostPercentage": 0.0000000,
+    "OtherCost": 0.00,
+    "OtherCostPercentage": 0.0000000,
+    "Composition": [
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-88294",
+            "code" : "88294",
+            "description": "OPERADOR DE ESCAVADEIRA COM ENCARGOS COMPLEMENTARES",
+            "coefficient": 1,
+            "UnityCost" : 33.87,
+            "TotalCost" : 33.87
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-88857",
+            "code" : "88857",
+            "description": "RETROESCAVADEIRA SOBRE RODAS COM CARREGADEIRA, TRAÇÃO 4X4, POTÊNCIA LÍQ. 88 HP, CAÇAMBA CARREG. CAP. MÍN. 1 M3, CAÇAMBA RETRO CAP. 0,26 M3, PESO OPERACIONAL MÍN. 6.674 KG, PROFUNDIDADE ESCAVAÇÃO MÁX. 4,37 M - DEPRECIAÇÃO. AF_06/2014",
+            "coefficient": 1,
+            "UnityCost" : 13.64,
+            "TotalCost" : 13.64
+        },
+        {
+            "type": "Composition",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-88858",
+            "code" : "88858",
+            "description": "RETROESCAVADEIRA SOBRE RODAS COM CARREGADEIRA, TRAÇÃO 4X4, POTÊNCIA LÍQ. 88 HP, CAÇAMBA CARREG. CAP. MÍN. 1 M3, CAÇAMBA RETRO CAP. 0,26 M3, PESO OPERACIONAL MÍN. 6.674 KG, PROFUNDIDADE ESCAVAÇÃO MÁX. 4,37 M - JUROS. AF_06/2014",
+            "coefficient": 1,
+            "UnityCost" : 3.50,
+            "TotalCost" : 3.50
+        }        
+    ]
+}

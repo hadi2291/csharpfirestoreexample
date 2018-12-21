@@ -1,0 +1,28 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "cNEkEhqQTRBgXLJGp2zH",
+        "reference": "benchCompositionLevel/cNEkEhqQTRBgXLJGp2zH"
+
+    },
+    "Code": "38412",
+    "Description": "INVERSOR DE SOLDA MONOFASICO DE 160 A, POTENCIA DE 5400 W, TENSAO DE 220 V, TURBO VENTILADO, PROTECAO POR FUSIVEL TERMICO, PARA ELETRODOS DE 2,0 A 4,0 MM",
+    "Type": "Supplies",
+    "Unity": "UN",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 759.06,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0,
+    "LaborCostPercenage": 0,
+    "MaterialCost": 0,
+    "MaterialCostPercentage": 0,
+    "EquipmentCost": 0,
+    "EquipmentCostPecentage": 0,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": []
+}

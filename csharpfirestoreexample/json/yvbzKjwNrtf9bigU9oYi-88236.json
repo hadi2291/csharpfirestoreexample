@@ -1,0 +1,155 @@
+{
+    "file": {
+        "id": "yvbzKjwNrtf9bigU9oYi"
+    },
+    "Level": {
+        "id": "yZ3lTa6lsmlSOiiMsPtZ",
+        "reference": "benchCompositionLevel/yZ3lTa6lsmlSOiiMsPtZ"
+
+    },
+    "Code": "88236",
+    "Description": "FERRAMENTAS (ENCARGOS COMPLEMENTARES) - HORISTA",
+    "Type": "Composition",
+    "Unity": "H",
+    "PriceRise": "COEFICIENTE DE REPRESENTATIVIDADE",
+    "TotalCost": 0.42,
+    "Link": "CAIXA REFERENCIAL",
+    "LaborCost": 0,
+    "LaborCostPercenage": 0,
+    "MaterialCost": 0.34,
+    "MaterialCostPercentage": 80.9523810,
+    "EquipmentCost": 0.08,
+    "EquipmentCostPecentage": 19.0476190,
+    "ThirdPartyServiceCost": 0,
+    "ThirdPartyServiceCostPercentage": 0,
+    "OtherCost": 0,
+    "OtherCostPercentage": 0,
+    "Composition": [
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-10",
+            "code" : "10",
+            "description": "BALDE PLASTICO CAPACIDADE *10* L",
+            "coefficient": 0.0070125,
+            "UnityCost" : 6.4,
+            "TotalCost" : 0.04
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-2711",
+            "code" : "2711",
+            "description": "CARRINHO DE MAO DE ACO CAPACIDADE 50 A 60 L, PNEU COM CAMARA",
+            "coefficient": 0.0005937,
+            "UnityCost" : 115,
+            "TotalCost" : 0.06
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-11359",
+            "code" : "11359",
+            "description": "ESMERILHADEIRA ANGULAR ELETRICA, DIAMETRO DO DISCO 7 '' (180 MM), ROTACAO 8500 RPM, POTENCIA 2400 W",
+            "coefficient": 0.0000566,
+            "UnityCost" : 565,
+            "TotalCost" : 0.03
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-12815",
+            "code" : "12815",
+            "description": "FITA CREPE ROLO DE 25 MM X 50 M",
+            "coefficient": 0.0079816,
+            "UnityCost" : 8.46,
+            "TotalCost" : 0.06
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-25966",
+            "code" : "25966",
+            "description": "REDUTOR TIPO THINNER PARA ACABAMENTO",
+            "coefficient": 0.0013303,
+            "UnityCost" : 15.85,
+            "TotalCost" : 0.02
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38382",
+            "code" : "38382",
+            "description": "LINHA DE PEDREIRO LISA 100 M",
+            "coefficient": 0.0025312,
+            "UnityCost" : 11.04,
+            "TotalCost" : 0.02
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38390",
+            "code" : "38390",
+            "description": "ROLO DE LA DE CARNEIRO 23 CM (SEM CABO)",
+            "coefficient": 0.0013303,
+            "UnityCost" : 33.27,
+            "TotalCost" : 0.04
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38393",
+            "code" : "38393",
+            "description": "ROLO DE ESPUMA POLIESTER 23 CM (SEM CABO)",
+            "coefficient": 0.0013303,
+            "UnityCost" : 15,
+            "TotalCost" : 0.01
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38396",
+            "code" : "38396",
+            "description": "SELADOR HORIZONTAL PARA FITA DE ACO 1 ",
+            "coefficient": 0.0000453,
+            "UnityCost" : 432.72,
+            "TotalCost" : 0.01
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38399",
+            "code" : "38399",
+            "description": "BOLSA DE LONA PARA FERRAMENTAS *50 X 35 X 25* CM",
+            "coefficient": 0.0002263,
+            "UnityCost" : 142.1,
+            "TotalCost" : 0.03
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38412",
+            "code" : "38412",
+            "description": "INVERSOR DE SOLDA MONOFASICO DE 160 A, POTENCIA DE 5400 W, TENSAO DE 220 V, TURBO VENTILADO, PROTECAO POR FUSIVEL TERMICO, PARA ELETRODOS DE 2,0 A 4,0 MM",
+            "coefficient": 0.0000396,
+            "UnityCost" : 759.06,
+            "TotalCost" : 0.03
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38413",
+            "code" : "38413",
+            "description": "LIXADEIRA ELETRICA ANGULAR, PARA DISCO DE 7'' (180 MM), POTENCIA DE 2.200 W, *5.000* RPM, 220 V",
+            "coefficient": 0.0000388,
+            "UnityCost" : 582.51,
+            "TotalCost" : 0.02
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38476",
+            "code" : "38476",
+            "description": "ESCADA DUPLA DE ABRIR EM ALUMINIO, MODELO PINTOR, 8 DEGRAUS",
+            "coefficient": 0.0001811,
+            "UnityCost" : 214.11,
+            "TotalCost" : 0.03
+        },
+        {
+            "type": "Supplies",
+            "reference": "benchCompositionItems/yvbzKjwNrtf9bigU9oYi-38477",
+            "code" : "38477",
+            "description": "ESCADA EXTENSIVEL EM ALUMINIO COM 6,00 M ESTENDIDA",
+            "coefficient": 0.0000388,
+            "UnityCost" : 606.36,
+            "TotalCost" : 0.02
+        }
+    ]
+}
